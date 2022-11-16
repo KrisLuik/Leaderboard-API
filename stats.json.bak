@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "63181e8c27701c14717a426f"
+  },
+  "rank": 1,
+  "name": "E6_Slayers",
+  "bloodhound": 93,
+  "horizon": 62
+},{
+  "_id": {
+    "$oid": "63181edc27701c14717a4271"
+  },
+  "rank": 2,
+  "name": "ChaoticMuch",
+  "bloodhound": 80,
+  "horizon": 64
+},{
+  "_id": {
+    "$oid": "63181eff27701c14717a4273"
+  },
+  "rank": 3,
+  "name": "HRZN Liphnn",
+  "bloodhound": 68,
+  "horizon": 62
+},{
+  "_id": {
+    "$oid": "63181fbb27701c14717a4278"
+  },
+  "rank": 4,
+  "name": "Effect",
+  "bloodhound": 55,
+  "horizon": 43
+},{
+  "_id": {
+    "$oid": "63181ff127701c14717a427a"
+  },
+  "rank": 5,
+  "name": "tttcheekyttt_SBI",
+  "bloodhound": 33,
+  "horizon": 42
+},{
+  "_id": {
+    "$oid": "63181ffc27701c14717a427c"
+  },
+  "rank": 6,
+  "name": "E6_Sineska",
+  "bloodhound": 27,
+  "horizon": 25
+},{
+  "_id": {
+    "$oid": "6318200627701c14717a427e"
+  },
+  "rank": 7,
+  "name": "jp",
+  "bloodhound": 75,
+  "horizon": 44
+},{
+  "_id": {
+    "$oid": "6318200f27701c14717a4280"
+  },
+  "rank": 8,
+  "name": "Wxltzy",
+  "bloodhound": 26,
+  "horizon": 51
+},{
+  "_id": {
+    "$oid": "6318201a27701c14717a4282"
+  },
+  "rank": 9,
+  "name": "Toffu_",
+  "bloodhound": 37,
+  "horizon": 24
+},{
+  "_id": {
+    "$oid": "6318202527701c14717a4284"
+  },
+  "rank": 10,
+  "name": "SZ_Zipman",
+  "bloodhound": 30,
+  "horizon": 35
+},{
+  "_id": {
+    "$oid": "6346335aa87e93d2beb3bec7"
+  },
+  "name": "Kylenator",
+  "rank": 11,
+  "bloodhound": 70,
+  "horizon": 89
+}]
